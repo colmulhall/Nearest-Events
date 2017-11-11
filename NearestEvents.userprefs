@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{5FC938B9-9430-4DAC-9A80-2389EA37013D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NearestEvents/SeedGenerator.cs">
+    <Files>
+      <File FileName="NearestEvents/Program.cs" Line="6" Column="5" />
+      <File FileName="NearestEvents/Utils.cs" Line="9" Column="18" />
+      <File FileName="NearestEvents/SeedGenerator.cs" Line="18" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NearestEvents PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
