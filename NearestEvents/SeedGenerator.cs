@@ -7,7 +7,7 @@ using System.Text;
  * 
  * This will generate:
  * 
- *  - a random number of events between 5 and 30
+ *  - a random number of events between 10 and 30
  *  - for each event, a random number of tickets between 0 and 100 will be generated
  *  - for each ticket, a random price between $10 and $300
  * 
@@ -28,7 +28,7 @@ namespace NearestEvents
             Random rand = new Random();
             List<Tuple<int, int>> coordinateList = new List<Tuple<int, int>>();
 
-            // Generate random number of events between 5 and 30
+            // Generate random number of events between 10 and 30
             for (int i = 0; i < rand.Next(10, 30); i++)
             {
                 // For this event, generate a random x, y cooradinate on the -10 + 10 axis

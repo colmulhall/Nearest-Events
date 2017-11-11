@@ -1,90 +1,55 @@
-Event ID: 1, coordinates: (-8,2) 
+Event ID: 1, coordinates: (2,-7) 
+
+8 tickets available for this event:
+$31.87 $266.16 $80.55 $189.42 $17.10 $257.36 $196.35 $131.33 
+
+Event ID: 2, coordinates: (9,1) 
+
+10 tickets available for this event:
+$279.75 $39.82 $44.13 $164.25 $99.32 $97.34 $61.10 $184.08 $262.39 $27.70 
+
+Event ID: 3, coordinates: (-2,0) 
 
 14 tickets available for this event:
-$216.36 $167.76 $39.40 $182.35 $269.76 $214.95 $246.22 $177.46 $199.24 $46.70 $106.79 $121.07 $277.24 $105.31 
+$30.89 $79.24 $265.94 $242.25 $22.27 $45.36 $202.97 $204.41 $275.31 $66.26 $43.32 $85.13 $57.84 $62.94 
 
-Event ID: 2, coordinates: (-9,7) 
+Event ID: 4, coordinates: (0,7) 
 
-21 tickets available for this event:
-$290.79 $169.83 $275.53 $289.89 $32.78 $148.36 $212.42 $62.26 $164.13 $273.66 $16.00 $42.92 $61.57 $156.53 $226.82 $146.99 $197.36 $162.63 $194.60 $221.00 $71.85 
+18 tickets available for this event:
+$65.24 $103.37 $193.68 $96.83 $123.94 $151.41 $198.84 $138.76 $220.52 $51.65 $80.97 $133.45 $181.39 $286.32 $31.03 $203.58 $205.91 $61.50 
 
-Event ID: 3, coordinates: (3,-10) 
+Event ID: 5, coordinates: (-2,4) 
 
-13 tickets available for this event:
-$75.95 $172.60 $171.12 $52.70 $114.98 $15.83 $277.90 $67.90 $101.19 $65.57 $53.15 $209.08 $52.35 
+14 tickets available for this event:
+$49.82 $136.96 $252.27 $73.31 $260.84 $123.37 $118.55 $81.55 $49.59 $206.22 $143.78 $294.33 $30.13 $292.61 
 
-Event ID: 4, coordinates: (9,3) 
+Event ID: 6, coordinates: (-4,-6) 
 
-11 tickets available for this event:
-$66.34 $49.60 $123.45 $241.96 $285.98 $210.71 $288.99 $201.65 $170.09 $226.92 $227.49 
+5 tickets available for this event:
+$286.13 $75.76 $82.03 $274.94 $53.78 
 
-Event ID: 5, coordinates: (-2,-2) 
+Event ID: 7, coordinates: (-5,-5) 
 
-9 tickets available for this event:
-$16.44 $126.02 $60.81 $105.47 $272.71 $76.44 $272.68 $243.38 $189.70 
+10 tickets available for this event:
+$53.52 $121.28 $290.33 $220.59 $21.43 $56.57 $99.48 $194.01 $264.67 $180.49 
 
-Event ID: 6, coordinates: (-1,-2) 
+Event ID: 8, coordinates: (4,-5) 
 
-11 tickets available for this event:
-$253.14 $156.04 $71.93 $69.83 $290.03 $53.59 $234.56 $242.42 $291.95 $106.13 $160.87 
+12 tickets available for this event:
+$84.22 $201.22 $42.81 $14.98 $130.56 $245.82 $194.73 $118.50 $183.12 $185.01 $283.49 $224.36 
 
-Event ID: 7, coordinates: (-6,0) 
+Event ID: 9, coordinates: (9,-8) 
 
-11 tickets available for this event:
-$243.13 $150.02 $144.99 $138.04 $74.67 $298.93 $291.93 $67.83 $187.11 $63.30 $192.33 
+5 tickets available for this event:
+$208.09 $69.77 $279.47 $131.03 $281.16 
 
-Event ID: 8, coordinates: (-7,-9) 
+Event ID: 10, coordinates: (1,-3) 
 
-8 tickets available for this event:
-$55.42 $224.64 $251.65 $66.36 $80.65 $186.61 $85.37 $37.90 
+16 tickets available for this event:
+$100.83 $27.10 $172.58 $53.50 $146.53 $47.10 $68.00 $111.40 $110.69 $96.82 $17.67 $126.74 $258.32 $289.56 $208.42 $44.23 
 
-Event ID: 9, coordinates: (-5,-1) 
+Event ID: 11, coordinates: (-1,-6) 
 
-7 tickets available for this event:
-$164.93 $113.50 $147.40 $19.91 $217.71 $104.42 $114.99 
-
-Event ID: 10, coordinates: (1,-10) 
-
-7 tickets available for this event:
-$210.60 $85.90 $21.04 $69.47 $80.72 $88.83 $169.76 
-
-Event ID: 11, coordinates: (1,8) 
-
-3 tickets available for this event:
-$154.63 $91.24 $82.94 
-
-Event ID: 12, coordinates: (0,-6) 
-
-8 tickets available for this event:
-$59.20 $127.29 $297.32 $179.58 $83.79 $13.40 $155.32 $95.33 
-
-Event ID: 13, coordinates: (-8,-7) 
-
-8 tickets available for this event:
-$184.71 $45.13 $35.29 $64.80 $143.16 $285.84 $122.10 $273.73 
-
-Event ID: 14, coordinates: (5,2) 
-
-6 tickets available for this event:
-$140.56 $97.38 $37.58 $164.52 $10.27 $54.31 
-
-Event ID: 15, coordinates: (-3,-8) 
-
-1 tickets available for this event:
-$132.69 
-
-Event ID: 16, coordinates: (-7,-5) 
-
-21 tickets available for this event:
-$149.06 $108.65 $150.74 $146.06 $147.63 $253.72 $156.44 $181.88 $141.94 $124.73 $30.67 $71.67 $73.60 $270.30 $108.16 $197.68 $207.81 $298.51 $135.24 $126.02 $222.53 
-
-Event ID: 17, coordinates: (2,-8) 
-
-4 tickets available for this event:
-$258.93 $45.94 $168.93 $239.86 
-
-Event ID: 18, coordinates: (1,-5) 
-
-9 tickets available for this event:
-$117.54 $122.09 $237.60 $20.14 $286.26 $199.05 $266.18 $272.01 $162.03 
+15 tickets available for this event:
+$294.91 $123.88 $20.00 $228.82 $94.31 $21.79 $163.18 $208.46 $96.65 $133.15 $96.22 $297.89 $164.53 $92.48 $200.83 
 

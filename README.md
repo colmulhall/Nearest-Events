@@ -9,7 +9,7 @@ price for each event.
 - Once run, the output of the seed data can be viewed in a file called "Generated Seed Data.txt"
 
 ## Assumptions
-- There will only ever be between 5 and 30 events
+- There will only ever be between 10 and 30 events
 - There will only ever be between 0 and 100 tickets available for each event
 - Prices of tickets range from 10 to 300 dollars
 - The program will only display the nearest five events to the user. This could mean that other events with the same distance are ignored.
